@@ -1,0 +1,24 @@
+{
+  "name": "Spinner",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://touhidulshawan.github.io/spinner",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touhidulShawan/spinner.git"
+  },
+  "keywords": [],
+  "author": "Touhidul Shawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/touhidulShawan/spinner/issues"
+  }
+}
